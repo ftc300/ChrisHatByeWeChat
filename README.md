@@ -1,5 +1,5 @@
 
-[merry christmas](https://github.com/ftc300/ChrisHatByeWeChat/blob/master/image/deal.gif)
+![merry christmas](https://github.com/ftc300/ChrisHatByeWeChat/blob/master/image/deal.gif?raw=true)
 ## Requirements 
 
 Pillow, MoviePy, and NumPy etc ,如果安装了cv2调试更佳
