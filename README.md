@@ -1,5 +1,5 @@
 
-
+[merry christmas](https://github.com/ftc300/ChrisHatByeWeChat/blob/master/image/deal.gif)
 ## Requirements 
 
 Pillow, MoviePy, and NumPy etc ,如果安装了cv2调试更佳
